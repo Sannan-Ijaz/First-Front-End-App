@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+ 
+</head>
+<body>
+  
+<div class="Menuwrap">
+<h1>Tic-Tac-Toe</h1>
+<h2>The Beach</h2>
+
+</div>
+<button class = "Day">Day- Mode</button>
+<button class = "Night">Night-Mode</button>
+<!-- <button class = "Sound-Btn">Sound On Off</button> -->
+<div id="body"></div>
+<audio controls autoplay loop  webkit-playsinline="true">
+   
+<source src="beach.mp3" type="audio/mp3" loop="true" autoplay="true" controls>
+</audio> 
+<script>
+    var x = document.querySelector('audio');
+    function sound() {
+        x.play()
+    }
+    </script>
+
+
+<script src="Menu2.js"></script>
+
+</body>
+
