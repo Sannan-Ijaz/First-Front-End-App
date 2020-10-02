@@ -1,5 +1,5 @@
-<img src="file:///Users/sannanijaz/Downloads/sei/SEIr39_Homework/Sannan/wk03/4-thu/tictactoe/SS.png" alt="Screen Shot">
-![alt text](file:///Users/sannanijaz/Downloads/sei/SEIr39_Homework/Sannan/wk03/4-thu/tictactoe/SS.png)
+<img src="SS.png" alt="Screen Shot">
+
 <h1>Tic Tac Toe: Beach Version</h1>
 <h2>Introduction</h2>
 <p>"Tic Tac Toe: Beach version" is an endless 'Zen' 3x3 tic-tac-toe game. Inspired by me playing Alto's Adventure which is an endless snowboarding running game with beautiful graphics and soothing background music which helps the player to relax and play for countless hours.Similar to that, "Tic Tac Toe: Beach Version" provides a soothing backdrop and audio to let you enjoy play tic tac toe endlessly.</p>
@@ -19,3 +19,5 @@
 <p>Another challenge was putting a picture instead of color change in each cell. This feature has not been added, but will be in the future.</p>
 <h3>Lessons</h3>
 <p>Planning and Organisation are perhaps the most important parts of the project which I aim to improve on in the next projects. At the end, I feel that HTML,CSS, and JavaScript can be improved a lot for this project, and would have been if proper planning and time allocations would have been done.</p>
+
+
