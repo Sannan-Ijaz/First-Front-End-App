@@ -4,9 +4,9 @@
 <p>"Tic Tac Toe: Beach version" is an endless 'Zen' tic-tac-toe game. Inspired by me playing Alto's Adventure which is an endless snowboarding running game with beautiful graphics and soothing background music which helps the player to relax and play for countless hours.Similar to that, "Tic Tac Toe: Beach Version" provides a soothing backdrop and audio to let you enjoy play tic tac toe endlessly.</p>
 <h2>Development</h2>
 <p><h3>Technologies Used:</h3></p>
-<ul>HTML</ul>
-<ul>CSS</ul>
-<ul>JavaScript</ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
 <h3>Process</h3>
 <p></p>
 
