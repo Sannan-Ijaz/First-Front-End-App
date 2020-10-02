@@ -95,7 +95,7 @@ function handleClickRestart(event)
 
 function handleClickMenu(event) 
 {
-    location.href = "Menu.html"
+    location.href = "index.html"
 }    
 
 
