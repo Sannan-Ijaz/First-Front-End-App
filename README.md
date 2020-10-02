@@ -17,3 +17,5 @@
 <p>As with all the coding projects, or atleast I believe that, most of my time was spent implementing my ideas into the game. I will say that this game is not perfect and there is so much that can be improved.</p>
 <p>As mentioned earlier, my main focus was to keep the JavaScript code concise. One of the targets I had was to design a function which could automatically check if the win or lose conditions are met. For that, I tried to compare arrays, but went to a dead-end when I realised that I will have to add a lot more possibilities for each player's turn. Ultimately, I manipulated DOM elements to check the conditions in each cell and got the result.</p>
 <p>Another challenge was putting a picture instead of color change in each cell. This feature has not been added, but will be in the future.</p>
+<h3>Lessons</h3>
+<p>Planning and Organisation are perhaps the most important parts of the project which I aim to improve on in the next projects. At the end, I feel that HTML,CSS, and JavaScript can be improved a lot for this project, and would have been if proper planning and time allocations would have been done.</p>
