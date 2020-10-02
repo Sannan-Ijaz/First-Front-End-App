@@ -1,5 +1,4 @@
-
-<img src="Title.png" alt="Title-Screen">
+<img src="SS.png" alt="Screen Shot">
 
 <h1>Tic Tac Toe: Beach Version</h1>
 <h2>Introduction</h2>
